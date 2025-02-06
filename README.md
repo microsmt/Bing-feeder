@@ -1,2 +1,4 @@
 # Bing-feeder
-Open source documentation for Bing feeder
+Video of assemble  the  feeder 
+https://youtu.be/CnlIPwArhIc
+
