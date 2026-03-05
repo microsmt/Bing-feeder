@@ -1,3 +1,4 @@
+# Get the kits: https://www.microsmt.com.cn/
 # What is Bing feeder?
 The Bing feeder is a sprocket-driven feeder with closed-loop control. It was designed for the MicroSMT PNPv3,  it uses a simple high-level pulse trigger, so it can be directly controlled via OpenPnP’s ReferenceAutoFeeder. Therefore, it is suitable for all types of PNP machines.
 
